@@ -23,5 +23,5 @@ Use emulator or a physical device connected by USB
 - [64 bit apk](https://www.github.com/raj-vora/dice-flutter/blob/master/apks/i-am-rich-arm64.apk?raw=true)
 - [32 bit apk](https://www.github.com/raj-vora/dice-flutter/blob/master/apks/i-am-rich-armeabi.apk?raw=true)
 
-##Flutter Help
+## Flutter Help
 For help getting started with Flutter, view [online documentation](https://flutter.dev/docs), which offers tutorials, samples, guidance on mobile development, and a full API reference.
