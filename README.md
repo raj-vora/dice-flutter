@@ -9,8 +9,7 @@ A new Flutter application.
 ```
 
 * Start building
-<br>
-Use emulator or a physical device connected by USB
+<p>Use emulator or a physical device connected by USB</p>
 ```sh
     $ flutter run
 ```
